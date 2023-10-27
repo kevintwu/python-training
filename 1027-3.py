@@ -1,4 +1,4 @@
 import random
 
-data=random.sample([1,5,6,10],3)
+data=random.uniform(60, 100)
 print(data)
